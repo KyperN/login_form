@@ -1,0 +1,13 @@
+.registration-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.post-input {
+  padding: 15px 30px 0 0;
+  font-size: 25px;
+  border-radius: 14px;
+  border: 1px solid rgb(248, 194, 94);
+  text-align: center;
+}
